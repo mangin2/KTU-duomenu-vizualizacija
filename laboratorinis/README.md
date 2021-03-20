@@ -2,7 +2,7 @@
 
 | Variantas    | ecoActCode    |
 |------------- | ------------- |
-|18            |682000         |
+|2             |682000         |
 
 ### 1. Užduotis
 
@@ -18,8 +18,8 @@ Atsakymas:
 
 ![atlyginimai](img/plot2.png)
 
-Išvados: Iš grafiko matome, kad keturios iš penkių kompanijų turėjo atlyginimų padidėjimus metų pradžioje, 
-taip pat trys iš penkių kompanijų turėjo atlyginimų padidėjimus metų gale. Vienintelė kompanija, kuri neturėjo atlyginimų padidėjimo nei metų pradžioje, nei metų gale, 
+Išvados: Iš grafiko matome, kad keturios iš penkių kompanijų (be UAB SCHAGE REAL ESTATE) turėjo atlyginimų padidėjimus metų pradžioje, 
+taip pat trys iš penkių kompanijų (UAB KS HOLDING, UAB V. PAULIUS & ASSOCIATES REAL ESTATE bei UAB AMIC LIETUVA) turėjo atlyginimų padidėjimus metų gale. Vienintelė kompanija (UAB SCHAGE REAL ESTATE), kuri neturėjo atlyginimų padidėjimo nei metų pradžioje, nei metų gale, 
 turėjo ryškų atlyginimo išaugimą metų viduryje: fiksuotas nežymus pakilimas gegužės mėnesį ir stiprus pakilimas birželio mėnesį, pakėlęs vidutinį atlyginimą nuo prieš tai
 buvusių maždaug 9000 eurų iki kiek daugiau nei 25000 eurų.
 
@@ -38,4 +38,6 @@ Bendrai pažvelgus darbuotojų skaičius šiose 5 kompanijose kompanijose ryški
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/shiny_example.png)
+![shiny app](img/shiny1.png)
+![shiny app](img/shiny2.png)
+![shiny app](img/shiny3.png)
