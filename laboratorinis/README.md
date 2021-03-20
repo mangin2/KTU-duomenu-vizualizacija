@@ -36,11 +36,16 @@ Bendrai pažvelgus darbuotojų skaičius šiose 5 kompanijose kompanijose ryški
 
 ### 4. Užduotis
 
-Shiny R aplikacijos nuotrauka:
+Shiny R aplikacijos nuotraukos:
 
 1.
+
 ![shiny app](img/shiny1.png)
+
 2.
+
 ![shiny app1](img/shiny2.png)
+
 3.
+
 ![shiny app2](img/shiny3.png)
