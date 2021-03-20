@@ -38,14 +38,8 @@ Bendrai pažvelgus darbuotojų skaičius šiose 5 kompanijose kompanijose ryški
 
 Shiny R aplikacijos nuotraukos:
 
-1.
+![shinyapp](img/shiny1.PNG)
 
-![shinyapp](img/shiny1.png)
+![shinyapp1](img/shiny2.PNG)
 
-2.
-
-![shinyapp1](img/shiny2.png)
-
-3.
-
-![shinyapp2](img/shiny3.png)
+![shinyapp2](img/shiny3.PNG)
