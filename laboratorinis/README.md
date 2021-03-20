@@ -40,12 +40,12 @@ Shiny R aplikacijos nuotraukos:
 
 1.
 
-![shiny app](img/shiny1.png)
+![shinyapp](img/shiny1.png)
 
 2.
 
-![shiny app1](img/shiny2.png)
+![shinyapp1](img/shiny2.png)
 
 3.
 
-![shiny app2](img/shiny3.png)
+![shinyapp2](img/shiny3.png)
