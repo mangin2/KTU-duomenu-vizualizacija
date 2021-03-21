@@ -8,7 +8,7 @@ ui <- dashboardPage(skin = "black",
                     
                     dashboardSidebar( 
                       
-                      selectizeInput(inputId = "imones_pavadinimas", label = "Įmonės pavadinimas", choices = NULL), #selected = NULL),
+                      selectizeInput(inputId = "imones_pavadinimas", label = "Imones pavadinimas", choices = NULL), #selected = NULL),
                       
                       sidebarMenu(
                         menuItem("Pagr. informacija", icon = icon("chart-line"), tabName = "Pagrindine_informacija"),
@@ -59,7 +59,7 @@ server <- function(input, output, session) {
       geom_text(aes(label = numInsured), vjust = -0.5)+
       scale_x_continuous(breaks = 1:12)+
       scale_y_continuous(breaks = pretty_breaks())+
-      labs(x = 'Mėnesiai', y = 'Apdraustųjų skaičius')+
+      labs(x = 'Menesiai', y = 'Apdraustuju skaicius')+
       theme_classic()
   )
   
@@ -71,7 +71,7 @@ server <- function(input, output, session) {
       geom_text(aes(label = avgWage), vjust = -0.5)+
       scale_x_continuous(breaks = 1:12)+
       scale_y_continuous(breaks = pretty_breaks())+
-      labs(x = 'Mėnesiai', y = 'Atlyginimas')+
+      labs(x = 'Menesiai', y = 'Atlyginimas')+
       theme_classic()
     
   )
